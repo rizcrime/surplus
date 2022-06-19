@@ -8,6 +8,7 @@ I am sorry i was forget to first commit. but i wil tell you honestly, that iss i
 - Each updating data you did, it won't update all columns at row you update, so enjoy :)
 - After you successed create data into products or images table, it will be auto create into category_products table(if you creating product) and vice versa.
 - Fields 'created_at' and 'updated_at' in whole table will fill as automtically as you fill the data to give the current time information.
+
 ----------------------------  API features existing already ---------------------------- :
 1. Show all of data in one end-point that is *api/data-products-categories* (unnecesary paramater).
 ---------------------------- CUD CATEGORIES ---------------------------- 
