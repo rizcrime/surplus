@@ -1,5 +1,5 @@
 # Appologize
-I am sorry i was forget to first commit. but i wil tell you honestly, that iss i was start being this project from 2022-18-06 13:00:00 upto today at first commit is released. Thank you :)
+I am sorry i was forget to first commit. but i wil tell you honestly, that is i was start being this project from 2022-18-06 13:00:00 upto today at first commit is released. Thank you :)
 # Documentation LARAVEL PROJECT
 ---------------------------- F.Y.I ---------------------------- 
 - The project is under LARAVEL Framework and SQL DBMS while Development
