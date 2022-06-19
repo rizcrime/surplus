@@ -11,14 +11,17 @@ I am sorry i was forget to first commit. but i wil tell you honestly, that iss i
 
 ----------------------------  API features existing already ---------------------------- :
 1. Show all of data in one end-point that is *api/data-products-categories* (unnecesary paramater).
+
 ---------------------------- CUD CATEGORIES ---------------------------- 
 2. To create categories you can access CUD Categories folder, then open CREATE Categories . what parameters you need are 'name', 'enable' . all of parameters are mandatory.
 3. To update categories you have to access directory like poin number two, then open UPDATE Categories, the parameters you need is 'id' and any data you going to update. only 'id' the mandatory paramteres.
 4. To go to the delete step folder, exactly same like point one and two, then open DELETE Categories, and it is only need one parameter mandatory, that is 'id'
+
 ----------------------------  CUD PRODUCTS ---------------------------- 
 5. To create products you can access CUD Products folder, then open CREATE Products, what parameters you need are 'name', 'description', 'enable'. all of parameters are mandatory.
 6. To update products you have to access directory like poin number five, then open UPDATE Products, the parameters you need is 'id' and any data you going to update. only 'id' the mandatory parameters.
 7. To go to the delete step folder, exactly same like point five and six, then open DELETE Products, and it is only need one parameter mandatory, that is 'id'
+
 ---------------------------- CUD IMAGES ---------------------------- 
 8. To create images you can access CUD Products folder, then open CREATE Images, what parameters you need are 'name', 'file'. all of parameters are mandatory.
 9. To update images you have to access directory like poin number two, then open UPDATE Images, the parameters you need is 'id' and any data you going to update. only 'id' the mandatory parameters.
